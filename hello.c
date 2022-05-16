@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 /* int main()
 {
     printf("こんにちは。私の名前は%sです。\n年齢は%dです。\n" ,"nasu togo", 20);
